@@ -1,0 +1,5 @@
+This project 
+milk Admin collects milk n distributes a/c to customer requirement n update accordingly
+milk provider provides milk till 9am 
+
+provider    admin       customer
